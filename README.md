@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ryanweideman
-- 👀 I’m interested in building backend systems
-- 📫 You can reach me at https://www.linkedin.com/in/ryan-weideman/
+- 👀 I’m interested in robotics system and backend systems
+- 👌 Check out my personal portfolio here: https://ryanweideman.com/
+- 📫 You can reach me at: https://www.linkedin.com/in/ryan-weideman/
 
 <!---
 ryanweideman/ryanweideman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
