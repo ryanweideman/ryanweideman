@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ryanweideman
-- 👀 I’m interested in robotics system and backend systems
+- 👀 I’m interested in embedded and robotics software
 - 👌 Check out my personal portfolio here: https://ryanweideman.com/
 - 📫 You can reach me at: https://www.linkedin.com/in/ryan-weideman/
 
