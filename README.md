@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ryanweideman
-- 👌 Check out my personal portfolio here: https://ryanweideman.com/
 - 📫 You can reach me at: https://www.linkedin.com/in/ryan-weideman/
 
 <!---
